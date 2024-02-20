@@ -87,18 +87,18 @@ section h2 {
   font-size: 32px;
 }
 
-#sports {
-  background-color: rgb(0,255, 0, 0.1);
+#tourism{
+  background-color:gold;
 }
 
-#sports .articles article a {
-  background-color: #009432;
+#tourism .articles article a {
+  background-color: black;
 }
 
-#economy {
-  background-color: #fffa65;
+#ecology {
+  background-color:greenyellow;
 }
 
  .articles article a {
-  background-color: #ff9f1a;
+  background-color: black;
 }
